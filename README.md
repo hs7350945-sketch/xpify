@@ -13,7 +13,7 @@ e motivadora.
 
 O projeto foi desenvolvido para solucionar a dispersão de informações
 entre diferentes plataformas e melhorar a forma como jogadores
-acompanham seu progresso e interagem com amigos.
+acompanham seu progresso e interagem com amigos. 
 
 ## 🚀 Principais funcionalidades
 
